@@ -1,0 +1,20 @@
+Instructions for Runing system
+
+The system is presented on a flask framework and has three menus: "Home," "Predictions," and "Dashboard."
+Because streamlit was designed with functionality for this, the 'Dashboard' menu on flak connects to a streamlit for the graphs and other visualisations.
+Start streamlit first, then flask.
+
+First run streamlit:
+
+- open the streamlit GUI com724-AE2 folder
+- Click on coin.py
+- In the terminal, use the code 'pip install Streamlit' to install streamlit
+- use the code 'Streamlit run coin.py' to run the app, this will take you to the web browser.
+
+Run flask app:
+
+- open the flask GUI com724-AE2 folder
+- Click on app.py
+- In the terminal, use the code 'python run app.py' to run, this will take you to the web browser
+
+Now you can navigate the system using the Flask web page.
