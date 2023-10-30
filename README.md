@@ -1,4 +1,4 @@
-This project was really challenging but also enlightening, I caried out lots of 
+A really challenging but also enlightening project, I caried out lots of 
 research to understand what and how cryptocurrency works (i.e to gain domain 
 Knowledge). Using the concepts of machine learning I was able to develop this 
 system that displays trends and predict cryptocurrency price by building a model 
